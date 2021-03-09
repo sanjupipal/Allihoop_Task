@@ -1,0 +1,1 @@
+exports.getSpaceShips = (req, res) => {};
